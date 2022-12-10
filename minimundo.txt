@@ -1,0 +1,10 @@
+MINIMUNDO IFHOUSE
+
+	A corretora IFHouse está precisando de um sistema para gerenciamento de seus
+imóveis, pois não estava tendo controle dos imóveis não alugados e dos que já
+estavam alugados. Pensando nisso, o setor administrativo resolveu criar um
+sistema usando banco de dados para poder solucionar o problema.
+	Para acessar o mesmo, o usuário deve primeiro realizar o Cadastro, contendo os seguintes dados: nome, email, data de nascimento e endereço completo.
+O usuário poderá cadastrar, alterar, listar e remover imóveis e para cadastrar os mesmos devem informar os seguintes dados: descrição, valor do aluguel, endereço completo e data de cadastro.
+	Para registrar o aluguel dos imóveis, deve haver os seguintes dados: data de início, data de fim, imóvel e usuário que alugou o imóvel. O usuário poderá alugar quantos imóveis ele desejar e um imóvel só poderá ser alugado se ainda não tiver alugado.
+	Por fim, um usuário inquilino pode dar feedback ao imóvel que mora, provendo um comentário e uma avaliação.
